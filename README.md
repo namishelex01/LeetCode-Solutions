@@ -1,47 +1,47 @@
-# [LeetCode](https://leetcode.com/problemset/algorithms/) ![Language](https://img.shields.io/badge/language-Python%20%2F%20C++%2011-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![Update](https://img.shields.io/badge/update-weekly-green.svg) ![Progress](https://img.shields.io/badge/progress-1070%20%2F%201070-ff69b4.svg) [![SayThanks](https://img.shields.io/badge/say-thanks-ff69f4.svg)](https://saythanks.io/to/kamyu104) ![Travis](https://travis-ci.org/kamyu104/LeetCode-Solutions.svg?branch=master)
+# [LeetCode](https://leetcode.com/problemset/algorithms/) ![Language](https://img.shields.io/badge/language-Python%20%2F%20C++%2011-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![Update](https://img.shields.io/badge/update-weekly-green.svg) ![Progress](https://img.shields.io/badge/progress-1070%20%2F%201070-ff69b4.svg) [![SayThanks](https://img.shields.io/badge/say-thanks-ff69f4.svg)](https://saythanks.io/to/namishelex01) ![Travis](https://travis-ci.org/namishelex01/LeetCode-Solutions.svg?branch=master)
 
 * R.I.P. to my old Leetcode repository, where there were ever `5.7k+` stars and `2.2k+` forks.  👼
 * Since free questions may be even mistakenly taken down by some companies, only solutions will be post on now.
-* For more solutions of questions, you can see my [LintCode](https://github.com/kamyu104/LintCode) repository.
+* For more solutions of questions, you can see my [LintCode](https://github.com/namishelex01/LintCode) repository.
 * There are new LeetCode questions every week. I'll keep updating for full summary and better solutions.
 * Thanks for starring this repository and sending thanks notes to cheer me up. I'll make this repository better and better.
 * Notes: "🔒" means you need to subscribe to [LeetCode premium membership](https://leetcode.com/subscribe/) for the access to premium questions.
 
 ## Algorithms
 
-* [Bit Manipulation](https://github.com/kamyu104/LeetCode-Solutions#bit-manipulation)
-* [Array](https://github.com/kamyu104/LeetCode-Solutions#array)
-* [String](https://github.com/kamyu104/LeetCode-Solutions#string)
-* [Linked List](https://github.com/kamyu104/LeetCode-Solutions#linked-list)
-* [Stack](https://github.com/kamyu104/LeetCode-Solutions#stack)
-* [Queue](https://github.com/kamyu104/LeetCode-Solutions#queue)
-* [Heap](https://github.com/kamyu104/LeetCode-Solutions#heap)
-* [Tree](https://github.com/kamyu104/LeetCode-Solutions#tree)
-* [Hash Table](https://github.com/kamyu104/LeetCode-Solutions#hash-table)
-* [Math](https://github.com/kamyu104/LeetCode-Solutions#math)
-* [Two Pointers](https://github.com/kamyu104/LeetCode-Solutions#two-pointers)
-* [Sort](https://github.com/kamyu104/LeetCode-Solutions#sort)
-* [Recursion](https://github.com/kamyu104/LeetCode-Solutions#recursion)
-* [Binary Search](https://github.com/kamyu104/LeetCode-Solutions#binary-search)
-* [Binary Search Tree](https://github.com/kamyu104/LeetCode-Solutions#binary-search-tree)
-* [Breadth-First Search](https://github.com/kamyu104/LeetCode-Solutions#breadth-first-search)
-* [Depth-First Search](https://github.com/kamyu104/LeetCode-Solutions#depth-first-search)
-* [Backtracking](https://github.com/kamyu104/LeetCode-Solutions#backtracking)
-* [Dynamic Programming](https://github.com/kamyu104/LeetCode-Solutions#dynamic-programming)
-* [Greedy](https://github.com/kamyu104/LeetCode-Solutions#greedy)
-* [Graph](https://github.com/kamyu104/LeetCode-Solutions#graph)
-* [Geometry](https://github.com/kamyu104/LeetCode-Solutions#geometry)
-* [Simulation](https://github.com/kamyu104/LeetCode-Solutions#simulation)
-* [Design](https://github.com/kamyu104/LeetCode-Solutions#design)
+* [Bit Manipulation](https://github.com/namishelex01/LeetCode-Solutions#bit-manipulation)
+* [Array](https://github.com/namishelex01/LeetCode-Solutions#array)
+* [String](https://github.com/namishelex01/LeetCode-Solutions#string)
+* [Linked List](https://github.com/namishelex01/LeetCode-Solutions#linked-list)
+* [Stack](https://github.com/namishelex01/LeetCode-Solutions#stack)
+* [Queue](https://github.com/namishelex01/LeetCode-Solutions#queue)
+* [Heap](https://github.com/namishelex01/LeetCode-Solutions#heap)
+* [Tree](https://github.com/namishelex01/LeetCode-Solutions#tree)
+* [Hash Table](https://github.com/namishelex01/LeetCode-Solutions#hash-table)
+* [Math](https://github.com/namishelex01/LeetCode-Solutions#math)
+* [Two Pointers](https://github.com/namishelex01/LeetCode-Solutions#two-pointers)
+* [Sort](https://github.com/namishelex01/LeetCode-Solutions#sort)
+* [Recursion](https://github.com/namishelex01/LeetCode-Solutions#recursion)
+* [Binary Search](https://github.com/namishelex01/LeetCode-Solutions#binary-search)
+* [Binary Search Tree](https://github.com/namishelex01/LeetCode-Solutions#binary-search-tree)
+* [Breadth-First Search](https://github.com/namishelex01/LeetCode-Solutions#breadth-first-search)
+* [Depth-First Search](https://github.com/namishelex01/LeetCode-Solutions#depth-first-search)
+* [Backtracking](https://github.com/namishelex01/LeetCode-Solutions#backtracking)
+* [Dynamic Programming](https://github.com/namishelex01/LeetCode-Solutions#dynamic-programming)
+* [Greedy](https://github.com/namishelex01/LeetCode-Solutions#greedy)
+* [Graph](https://github.com/namishelex01/LeetCode-Solutions#graph)
+* [Geometry](https://github.com/namishelex01/LeetCode-Solutions#geometry)
+* [Simulation](https://github.com/namishelex01/LeetCode-Solutions#simulation)
+* [Design](https://github.com/namishelex01/LeetCode-Solutions#design)
 
 ## Database
 
-* [SQL](https://github.com/kamyu104/LeetCode-Solutions#sql)
+* [SQL](https://github.com/namishelex01/LeetCode-Solutions#sql)
 
 
 ## Shell
 
-* [Shell Script](https://github.com/kamyu104/LeetCode-Solutions#shell-script)
+* [Shell Script](https://github.com/namishelex01/LeetCode-Solutions#shell-script)
 
 ## Reference
 
