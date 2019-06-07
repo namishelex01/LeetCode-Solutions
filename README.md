@@ -1,4 +1,4 @@
-# [LeetCode](https://leetcode.com/problemset/algorithms/) ![Language](https://img.shields.io/badge/language-Python%20%2F%20C++%2011-orange.svg) ![Progress](https://img.shields.io/badge/progress-1070%20%2F%201070-ff69b4.svg) ![Travis](https://travis-ci.org/namishelex01/LeetCode-Solutions.svg?branch=master)
+# [LeetCode](https://leetcode.com/problemset/algorithms/) ![Language](https://img.shields.io/badge/language-Python%20%2F%20C++%2011-orange.svg) ![Progress](https://img.shields.io/badge/progress-1070%20%2F%201070-ff69b4.svg)
 
 ## Algorithms
 
